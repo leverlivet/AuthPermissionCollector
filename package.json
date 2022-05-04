@@ -1,0 +1,32 @@
+{
+  "name": "permission-collector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/exjobb2/permission-collector",
+  "author": "oscar <some@email.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn ts-node src/app.ts",
+    "test": "yarn ts-node src/site-info.ts",
+    "hyab": "yarn ts-node src/oid-fetcher.ts",
+    "gold": "yarn ts-node src/gold-standard.ts",
+    "ip": "yarn ts-node src/ip-geo.ts",
+    "combine": "yarn ts-node top-lists/combine.ts",
+    "filter": "yarn ts-node src/filter-visited.ts",
+    "sopa": "yarn ts-node src/script-till-ruban.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "@types/geoip-lite": "^1.4.1",
+    "@types/get-ssl-certificate": "^2.3.0",
+    "@types/node": "^14.14.22",
+    "@types/selenium-webdriver": "^4.0.11",
+    "date-fns": "^2.16.1",
+    "geoip-lite": "^1.4.2",
+    "get-ssl-certificate": "^2.3.3",
+    "selenium-webdriver": "^4.0.0-beta.1",
+    "ts-node": "^9.1.1"
+  }
+}

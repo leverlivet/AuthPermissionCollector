@@ -1,0 +1,257 @@
+Rank,URL,Google IDP,Apple IDP,Facebook IDP,Twitter IDP,Category,# of pop up,About pop ups,Login button pressed?,About login button
+1,google.com,0,0,0,0,Search engine,1,"Accept cookies, press ""Jag godkänner""",yes,"""Logga in"""
+2,youtube.com,0,0,0,0,Video player,2 (1 if signing in) ,"Can sign in on pop up, if no --> cookie accept pop up shows",yes,"Both in pop up and on main page, directly moves you to google login"
+3,tmall.com,?,?,?,?,Retail,0,-,yes,cant translate page after pressing login button
+4,sohu.com,0,0,0,0,News,0,-,yes,"When pressing login pop up shows, other TPA available"
+5,qq.com,0,0,0,0,News,0,-,yes,When pressing log in you get redirected to new window
+6,baidu.com,0,0,0,0,Search engine,0,-,yes,"After pressing login button pop up shows, other TPA available"
+7,360.cn,0,0,0,0,System security services,0,-,yes,"After pressing login button redirected to new page, other third party login services available"
+8,taobao.com,0,0,"1 (fb logo + ""log in"")",0,Retail,0,-,yes,"After pressing login button redirected to tab, which cant be fully translated"
+9,jd.com,0,0,0,0,Retail,0,-,yes,"after pressing login button redirected to new page, other third party login services available"
+10,facebook.com,0,0,0,0,Social media,1,Cookie pop up,yes,
+11,yahoo.com,"1 (""Google"")",0,0,0,Email service,1,"Privacy consent (press ""I approve to continue"")",yes,"""Sign in"" redirected to new page, "
+12,amazon.com,0,0,0,0,Retail,0,-,yes,Have to hover over element in bar to get Sigin in button visible
+13,zoom.us,"1 (logo + ""Google"")",0,"1 (logo + ""Facebook"")",0,Video conference service,2,"Cookie pop up (press ""Agree and Proceed""), after confirmation pop up shows (press ""Close"")",yes,"""Sign in"", redirected to login page"
+14,wikipedia.org,0,0,0,0,Information search,0,,no,No login button
+15,weibo.com,0,0,"1 (""""Login with Facebook)",0,Forum/news,0,-,no,IDP button directly on main page
+16,sina.com.cn,0,0,0,0,News,0,-,no,"When hover over ""log in button"" login page shows, other TPA available"
+17,xinhuanet.com,0,0,0,0,News,0,-,no,No login button
+18,live.com,0,0,0,0,Email service,0,-,yes,"If pressing button ""Sign-in options"" other TPA shows (Github)"
+19,reddit.com,"1 (""Continue with Google)","1 (""Continue with apple"")",0,0,Forum,0,-,yes,"After pressing ""Login"" button pop up shows"
+20,microsoft.com,0,0,0,0,Software company page,0,-,yes,Log in button is picture of a person
+21,panda.tv,,,,,,,,,
+22,zhanqi.tv,0,0,0,0,Esport stream?,0,-,yes,"Pressing login button gives pop up, other TPA available"
+23,netflix.com,0,0,"1 (""Login with facebook"")",0,Stream,1,Non blocking,yes,pressing login button redirect to login page with IDPs
+24,office.com,0,0,0,0,Email service,0,-,yes,Redirect to microsoft login page
+25,alipay.com,0,0,0,0,Software service,0,-,yes,Redirects to new page
+26,okezone.com,1 (continue with Google),0,1 (continue with Facebook),"0 (Continue with Twitter, funkar ej)",News,0,-,yes,"Logo of a person as login button, at click redirect to new page"
+27,instagram.com,0,0,1 (Login with facebook),0,Social media,1,Cookie accept,no,FB IDP direct on homepage
+28,microsoftonline.com,,,,,,,,,
+29,vk.com,0,0,1 (Login with Facebook),0,Social media,0,-,no,
+30,myshopify.com,0,0,0,0,-,0,-,-,Not homepage
+31,naver.com,0,0,1 (Facebook),0,Likt hotmail/msn,0,-,yes,
+32,yahoo.co.jp,0,0,0,0,Likt hotmail/msn,0,-,yes,-
+33,csdn.net,0,0,0,0,Not sure,0,-,yes,Other TPA available
+34,bongacams.com,,,,,,,,,
+35,huanqiu.com,0,0,0,0,News,0,-,yes,"Logo of a person as login button, other TPA available"
+36,bing.com,0,0,0,0,Search engine,1,Non blocking,yes,"Both sign in text + logo of a person as login button, other TPA available"
+37,twitch.tv,0,0,1 (Connect with facebook),0,Stream site,0,-,yes,Pop up
+38,ebay.com,1 (continue with Google),1 (continue with Apple),1 (continue with Facebook),0,Retail,0,-,yes,
+39,adobe.com,1 (continue with Google),1 (continue with Apple),1 (continue with Facebook),0,Software service,1,Choose country,yes,
+40,google.com.hk,0,0,0,0,Search engine,1,Accept cookies,yes,-
+41,tianya.cn,0,0,0,0,Social,0,-,no,"No login button, only QR"
+42,yy.com,0,0,0,0,Streaming,0,-,yes,
+43,aliexpress.com,1 (logo image),1 (logo image),1 (logo image),1 (logo image),Retail,1,Discount coupon offer,yes,Hover over tab called Account with logo of a person to find sign in button
+44,amazon.in,0,0,0,0,Retail,0,-,yes,Hover over tab to find login button
+45,twitter.com,0,0,0,0,Social media,0,-,yes,
+46,17ok.com,0,0,0,0,News,0,-,no,Did not find log in button
+47,amazon.co.jp,0,0,0,0,Retail,0,-,yes,Hover over tab to find login button
+48,linkedin.com,1 (logo + sign in with google),0,0,0,Social media,0,-,yes,
+49,yandex.ru,1 (logo image),0,1 (logo image),1 (logo image),like msn,0,-,yes,Other TPA available
+50,chaturbate.com,,,,,,,,,
+51,mail.ru,0,0,0,0,email service,0,-,yes,"Login button called ""To come in"", other IDPs available"
+52,tribunnews.com,1(Sign in with google),0,1 (Sign in with facebook),0,News,0,-,yes,Other IDP available
+53,wordpress.com,1 (Continue with Google),1 (Continue with Apple),0,0,software service,0,-,yes,
+54,google.co.in,0,0,0,0,Search engine,1,-,yes,
+55,msn.com,0,0,0,0,"News, email, social",1,Accept privacy,yes,
+56,indeed.com,1 (Sign in with Google),1 (Sign in with Apple),1 (Login with facebook),0,Apply for job service,0,,yes,
+57,whatsapp.com,0,0,0,0,Social media/chatting,1,cookie accept,no,
+58,ok.ru,1 (google logo),1 (apple logo),1 (facebook logo),0,social media/chatting,1,accept privacy,no,Other IDPs available
+59,amazonaws.com,0,0,0,0,software service,0,,yes,"Have to open tab called ""My account"" and chooes an option. Nothing called login or signin"
+60,instructure.com,1 (google logo),1 (apple logo),1 (facebook logo),1 (twitter logo),learning management platform,0,,yes,"First have to press login button then ""canvas"" button to access login and IDPs"
+61,etsy.com,1 (Continue with Google),1 (Continue with Apple),1 (Continue with Facebook),0,Retail,1,accept privacy,yes,
+62,tradingview.com,1(Google + logo),1 (logo),1(Facebook+ logo),1 (logo),Finance/market,0,,yes,Other IDPs available
+63,binance.com,0,0,0,0,Finance/market,0,,yes,
+64,aparat.com,1 (google in arabic + logo),0,0,0,video service (like youtube),0,,yes,Cant translate login page
+65,google.com.br,0,0,0,0,search engine,1,cookie accept,yes,
+66,zoho.com,1 (Google + logo),1 (sign in with apple + logo),1 (logo),1 (twitter + logo),software service,0,,yes,"Other IDPs, have to click on button to see all IDPs, misses apple and twitter"
+67,so.com,0,0,0,0,search engine,0,,yes,other IDPS 
+68,okta.com,0,0,0,0,security software ,0,,yes,Login button as figure of person
+69,babytree.com,0,0,0,0,baby page,0,,yes,other IDPs available
+70,canva.com,1 (login with google),1 (log in with apple),1 (log in with facebook) ,0,Design software,0,,yes,
+71,rakuten.co.jp,0,0,0,0,retail,0,,yes,
+72,imdb.com,1 (sign in with google),1 (sign in with apple),1 (sign in with facebook,0,movie rating,0,,yes,other IDPs available
+73,pornhub.com,,,,,,,,,
+74,spotify.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,music,0,,yes,
+75,6.cn,0,0,0,0,streaming,0,,yes,other IDPs available
+76,haosou.com,0,0,0,0,search engine,0,,yes,other IDPs available
+77,google.co.jp,0,0,0,0,search engine,1,cookie accept,yes,
+78,google.de,0,0,0,0,search engine,1,cookie accept,yes,
+79,intuit.com,0,0,0,0,finacne,0,,yes,many clicks between clicking login til login page
+80,kompas.com,1 (sign in with google),0,1 (sign in with facebook),0,news,0,,yes,other IDPs available
+81,cnn.com,0,0,0,0,news,1,cookies accept,yes,login button as figure of person
+82,imgur.com,1 (logo),1 (logo),1 (logo),1 (logo),"media service, like 9gag",1,accept privacy,yes,
+83,amazon.de,0,0,0,0,Retail,0,-,yes,
+84,rednet.cn,0,0,0,0,news,0,,no,
+85,hao123.com,0,0,0,0,search engine,0,,yes,other IDPs available
+86,xvideos.com,,,,,,,,,
+87,gome.com.cn,0,0,0,0,retail,0,,,
+88,zillow.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,estate sel and rent,0,,yes,
+89,fandom.com,1 (sign in with google),0,1 (sign in with facebook),0,"games, video, tv",1,accept cookies,yes,"hover over figure of person and then press login, other IDPs available"
+90,amazon.co.uk,0,0,0,0,Retail,0,-,yes,
+91,udemy.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,learning tools,0,,yes,
+92,tiktok.com,1 (login with google),1 (log in with apple),1 (log in with facebook) ,1 (log in with twitter),social media,0,,yes,other IDPs available
+93,nytimes.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,news,0,,yes,
+94,google.fr,0,0,0,0,search engine,1,cookie accept,yes,
+95,flipkart.com,0,0,0,0,retail,1,"login pop up, with login button",yes,
+96,bbc.com,0,0,0,0,news,1,"help us improve pop up, ""take survey"" or ""close"" and cookie accept pop up",yes,
+97,ettoday.net,0,0,0,0,"news, forum, video",0,,cant find,
+98,thestartmagazine.com,0,0,0,0,news,0,,no,
+99,163.com,,,,,,,,,
+100,google.ru,0,0,0,0,search engine,1,cookie accept,yes,
+101,wetransfer.com,1 (continue with google),1 (continue with apple),0,0,file sharing,0,,yes,other IDP available
+102,padlet.com,1 (login with google),1 (log in with apple),0,0,web art/design,0,,yes,other IDP available
+103,grammarly.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,spelling service,0,,yes,
+104,stackexchange.com,1 (login with google),0,1 (login with facebook),0,forum,0,,yes,
+105,detik.com,1 (logo),1 (logo),1 (logo),0,news,0,,yes,
+106,espn.com,0,0,0,0,sport news,1,cookies accept,yes,
+107,roblox.com,0,0,1 (facebook),0,Gaming,0,,yes,
+108,cnblogs.com,0,0,0,0,forum,0,,yes,other IDPs available
+109,tumblr.com,0,0,0,0,social media/forum/blogs,0,,yes,
+110,paypal.com,0,0,0,0,payment service,0,,yes,
+111,dropbox.com,1 (sign in with google),1 (sign in with apple),0,0,file sharing,0,,yes,
+112,soundcloud.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,music,0,,yes,
+113,daum.net,0,0,0,0,News/TV,0,,no,"other IDPs maybe available, cant translate all"
+114,stackoverflow.com,1 (login with google),0,1 (login with facebook),0,forum,0,,yes,other IDPs available
+115,google.es,0,0,0,0,search engine,1,cookie accept,yes,
+116,pixnet.net,0,0,1 (login with facebook),0,forum,0,,yes,
+117,chase.com,0,0,0,0,finance/bank,0,,no,
+118,github.com,0,0,0,0,forum,0,,yes,
+119,bilibili.com,0,0,0,0,video/streaming,0,,yes,other IDPs available
+120,xhamster.com,,,,,,,,,
+121,livejasmin.com,,,,,,,,,
+122,apple.com,0,0,0,0,retail,0,,yes,have to press on tab to find login
+123,google.it,0,0,0,0,search engine,1,cookie accept,yes,
+124,ilovepdf.com,1 (logo),0,1 (logo),0,software service,0,,yes,
+125,duckduckgo.com,0,0,0,0,search engine,0,,no,
+126,booking.com,1 (logo),1 (logo),1 (logo),0,travel seller,0,,yes,
+127,nih.gov,0,0,0,0,health organisation,0,,no,
+128,indiatimes.com,1(Gmail+ logo),0,1(Facebook+ logo),0,news,1,accept cokkies,yes,
+129,shutterstock.com,0,0,0,0,image search engine,0,,yes,
+130,weather.com,0,0,0,0,weather news,0,,no,
+131,investing.com,1 (continue with google),0,1 (continue with facebook),0,finance nes,1,accept cookies,yes,
+132,cnzz.com,0,0,0,0,software service,0,,yes,trouble to translate
+133,salesforce.com,0,0,0,0,company solutions,1,accept cookies,yes,
+134,wix.com,1 (continue with google),0,1 (continue with facebook),0,software service,0,,yes,
+135,51.la,0,0,0,0,statistics/marketing,1,closed beta invitation,yes,
+136,savefrom.net,0,0,0,0,video donwloader,0,,no,
+137,wellsfargo.com,0,0,0,0,bank,0,,no,
+138,godaddy.com,1(Google+ logo),0,1(Facebook+ logo),0,url retail,0,,yes,have to press 2 login buttons to access IDPs
+139,pikiran-rakyat.com,0,0,0,0,news,0,,no,
+140,fidelity.com,0,0,0,0,finance/bank,1,no pop up but accept button on one page and then redirected,yes,
+141,1688.com,0,0,0,0,retail,0,,yes,trouble translate
+142,bbc.co.uk,0,0,0,0,news,1,accept cookies,yes,
+143,vimeo.com,1 (login with google),1 (log in with apple),1 (login with facebook),0,video service,0,,yes,
+144,51sole.com,0,0,0,0,retail,0,,yes,other IDPs available
+145,speedtest.net,0,0,0,0,internet connection checker,1,"cookies (""I consent"")",yes,
+146,ups.com,1 (logo + google),1 (logo + apple),1 (logo + facebook),1 (logo + twitter),shipment company,1,"Want feedback (Yes, NO or X)",yes,"sign up instead of sign in, other IDPs available"
+147,tistory.com,0,0,0,0,photo/website design,0,,yes,"""getting started"" instead of login"
+148,quizlet.com,1 (login with google),1 (log in with apple),1 (login with facebook),0,quiz creator,0,,yes,
+149,onlinesbi.com,0,0,0,0,finance/banking,0,,yes,have to press on two login buttons
+150,researchgate.net,1 (continue with google),0,1 (continue with facebook),0,scientific papers etc,0,privacy accept,yes,other IDPs available
+151,google.com.sg,0,0,0,0,search engine,1,cookie accept,yes,
+152,ebay.de,1 (Go to Google),1 (Go on with Apple),1 (continue with facebook),0,retail,0,,yes,
+153,amazon.ca,0,0,0,0,Retail,0,-,yes,
+154,pinterest.com,1 (Fortsätt med Google),0,1 (continue with facebook),0,social media,0,,yes,
+155,craigslist.org,0,0,0,0,like blocket,0,,yes,"""my account"" instad of ""login"""
+156,telegram.org,0,0,0,0,messaging website,0,,no,
+157,healthline.com,0,0,0,0,news,1,privacy accept,no,
+158,grid.id,1 (sign in with google),0,1 (sign in with facebook),0,woman news paper,0,,yes,other IDPs available
+159,avito.ru,1 (logo),1 (logo),1 (logo),0,retail,0,,yes,
+160,google.cn,0,0,0,0,search engine,1,cookie accept,yes,
+161,unsplash.com,0,0,1 (Login with facebook),0,photo search,0,,yes,
+162,tokopedia.com,1 (logo + google),0,1 (logo + facebook),0,retail,0,,yes,"Have to press button ""Google or Facebook"" on login page to find IDP buttons"
+163,primevideo.com,0,0,0,0,video streming,0,,yes,
+164,force.com,0,0,0,0,website for developer jobs,1,accept cookies,yes,
+165,chess.com,1 (logo + google),1 (logo + Apple ID),1 (logo + facebook),0,chess game site,0,,yes,
+166,youm7.com,0,0,0,0,news,0,,no,
+167,google.com.mx,0,0,0,0,search engine,1,cookie accept,yes,
+168,google.co.uk,0,0,0,0,search engine,1,cookie accept,yes,
+169,usps.com,0,0,0,0,package shipment,0,,yes,
+170,cnet.com,0,0,1 (continue with facebook),0,news,1,cookie accept,yes,
+171,smallpdf.com,1 (log in with google),0,1 (log in with facebook),0,pdf converter,0,,yes,
+172,walmart.com,0,0,0,0,retail,0,,yes,"""Account"" buton click and then ""sign in"" button click"
+173,zhihu.com,0,0,0,0,Q&A website,0,,no,other IDPs availble
+174,google.com.tw,0,0,0,0,search engine,1,cookie accept,yes,
+175,bet9ja.com,0,0,0,0,betting,1,"comes to a page where u need to click ""continue to website""",no,
+176,digikala.com,0,0,0,0,retail,0,,yes,
+177,businessinsider.com,1 (logo),0,1 (logo),0,news,1,cookie accept,yes,other idp available
+178,etoro.com,1 (sign in with google),1 (sign in with apple),1 (sign in with facebook),0,stock market/finance,0,,yes,
+179,varzesh3.com,0,0,0,0,news,0,,yes,
+180,fedex.com,0,0,0,0,shipment company,1,"first come to page to click on country/language, then pop up for choosing language",yes,person figure logo as login button
+181,ameritrade.com,0,0,0,0,tradeing software/page,0,,yes and no,
+182,theguardian.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,news,1,accpet cookies,yes,
+183,cnbc.com,0,0,0,0,news,1,accept cookie,yes,
+184,hdfcbank.com,0,0,0,0,finance/bank,0,,yes,many clicks to login page
+185,liputan6.com,1 (logo + google),0,1 (logo + facebook),0,news,0,,yes,
+186,zerodha.com,0,0,0,0,stock market/finance,0,,no,
+187,bestbuy.com,1 (sign in with google),1 (sign in with apple),0,0,retail,1,first page for enter country then pop up for subscribe,yes,press account button then sign in button
+188,iqiyi.com,0,0,0,0,video/streaming,0,,yes,
+189,webex.com,0,0,0,0,video conference software,0,,yes,
+190,deepl.com,0,0,0,0,translate software,0,,yes,
+191,box.com,1 (sign in with google),0,0,0,file sharing,0,,yes,
+192,hotstar.com,,,,,,,,,
+193,t.me,0,0,0,0,messaging website,0,,no,
+194,google.com.tr,0,0,0,0,search engine,1,cookie accept,yes,
+195,setn.com,0,0,0,0,news,0,,no,
+196,slideshare.net,0,0,1 (log in with facebook),0,pp/slide sharing,0,,yes,other IDP available
+197,soso.com,0,0,0,0,search engine,0,,no,
+198,behance.net,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,image search,0,,yes,
+199,mediafire.com,0,0,1 (log in with facebook),1 (log in with twitter),file sharing,1,personal data accept,yes,
+200,hulu.com,0,0,0,0,video ,0,,yes,
+201,suara.com,1 (Register/Login via facebook),0,1 (sign in/sign in through google),0,news,0,,yes,figure of peson as button
+202,skype.com,0,0,0,0,video conference,0,,yes,
+203,videocampaign.co,,,,,,,,,
+204,ca.gov,0,0,0,0,state homepage (california),0,,no,
+205,uol.com.br,0 (sign in with google),0,0 (log in with facebook),0,news,0,,yes,"""Account"" as button"
+206,w3schools.com,0,0,0,0,web developer site,1,cookie accept,yes,
+207,ikea.com,0,0,0,0,retail,1,cookie accept,no,
+208,google.ca,0,0,0,0,search engine,1,cookie accept,yes,
+209,washingtonpost.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,news,1,"first page to choose free or pay, then page to accept cookie",yes,other idp available
+210,docusign.com,0,0,0,0,eSignature service,1,cookie accept,no,
+211,momoshop.com.tw,1 (facebook),0,1 (google),0,fashion news/retail,0,,yes,"trouble translate, other idp available"
+212,capitalone.com,0,0,0,0,finance/bank,0,,yes,
+213,in.gr,0,0,0,0,news,1,privacy accept,no,
+214,myworkday.com,,,,,,,,,
+215,coingecko.com,0,0,0,0,stock market info,0,,yes,
+216,redd.it,"1 (""Continue with Google)","1 (""Continue with Apple"")",0,0,Forum,0,-,yes,"After pressing ""Login"" button pop up shows"
+217,disneyplus.com,0,0,0,0,video,0,,yes,
+218,metropoles.com,0,0,0,0,news,0,,no,
+219,homedepot.com,0,0,0,0,retail,0,,yes,"first ""my account"" button then sign in button"
+220,t.co,,,,,,,,,
+221,etrade.com,0,0,0,0,finace/bank/trading,0,,yes,"""Log on"""
+222,gosuslugi.ru,0,0,0,0,doctor page/goverment page,1,loaction pop up,no,
+223,aliyun.com,0,0,0,0,network/software service,0,,yes,
+224,bloomberg.com,0,1 (sign in with apple),1 (sign in with facebook),1 (sign in with twitter),news,1,cookie accept,yes,
+225,yelp.com,1 (continue with google),1 (continue with apple),1 (continue with facebook),0,Service Finder,0,,yes,
+226,lazada.sg,1 (logo + google),0,1 (logo + facebook),0,Retail,0,,yes,
+227,freepik.com,1 (logo),0,1 (logo),0,Images,0,,yes,
+228,amazon.es,0,0,0,0,Retail,0,,,
+229,mercadolibre.com.mx,0,0,0,0,Retail,0,,,
+230,airbnb.com,1 (logo + continue with google),1 (logo + continue with apple),1 (logo + continue with facebook),0,Rent accommodation,0,,yes,"dropdown + ""logga in"""
+231,sonhoo.com,0,0,0,0,Retail,0,,yes,other IDPs
+232,aliexpress.ru,1 (logo),1 (logo),1 (logo),1 (logo),Retail,1,icon,yes,"dropdown + ""to come in"""
+233,irs.gov,0,0,0,0,Goverment Page,0,,,
+234,sogou.com,0,0,0,0,Search Engine,0,,yes,other IDPs
+235,cnnic.cn,0,0,0,0,URL retail,0,,,
+236,manage.wix.com,1 (logo + continue with google),1 (logo + continue with apple),1 (logo + continue with facebook),0,Software service,0,,no,
+237,merdeka.com,0,0,0,0,News,0,,,
+238,amazon.it,0,0,0,0,Retail,0,,,
+239,icicibank.com,0,0,0,0,finance,1,allow/not now,,
+240,cricbuzz.com,0,0,0,0,News,0,,,
+241,realtor.com,1 (logo + continue with google),1 (logo + continue with apple),1 (logo + continue with facebook),0,Estate,0,,yes,
+242,coursera.org,0 (logo + continue with google),1 (logo + continue with apple),1 (logo + continue with facebook),0,Learning tool,0,,yes,
+243,steampowered.com,0,0,0,0,Games,0,,,
+244,chouftv.ma,0,0,0,0,Video,1,icon,,
+245,amazon.fr,0,0,0,0,Retail,0,,,
+246,payoneer.com,0,0,0,0,Software service,1,accept all cookies,,
+247,manoramaonline.com,1 (logo + login with google),0,1 (logo + login with facebook),0,News,1,not now,yes,icon only
+248,dailymail.co.uk,1 (logo),1 (logo),1 (logo),1 (logo),News,1,got it,yes,
+249,heavy.com,0,0,0,0,News,1,accept all,,
+250,bukalapak.com,1 (logo + login dengan google),0,1 (logo + login dengan facebook),0,Retail,0,,yes,
+251,iyiou.com,0,0,0,0,News,0,,,
+252,globo.com,1 (logo + google),0,1 (logo + facebook),0,News,0,,yes,"text: ""globe account"""
+253,wikihow.com,1 (logo + google),0,1 (logo + facebook),0,Information search,0,,yes,
+254,marketwatch.com,1 (logo + sing in with google),0,1 (logo + sign in with google),0,News,1,accept cookies,yes,login button only visible when hovering profile image
+255,hootsuite.com,1 (logo + sign in with google),1 (logo + sign in with apple),1 (logo + sign in with facebook),1 (logo + sign in with twitter),Social media,0,,yes,IDPs only visible after extra button click
+256,alibaba.com,1 (logo),0,1 (logo),1 (logo),Retail,0,,yes,other IDPs available
