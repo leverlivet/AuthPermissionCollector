@@ -24,3 +24,9 @@ Creates a new file with all top-list ranks for pages within set rank buckets.
 ### `yarn filter`
 
 If running the tool for several sessions, this script can be used to filter out visited websites before starting the next session.
+
+## Notes
+
+Were you to use our code, dataset, or parts of it in your work, we kindly ask that you reference the following paper in your publication:
+
+Oscar Jarpehult, Fredrik Josefsson Agren, Madeleine Backstrom, Linn Hallonqvist, and Niklas Carlsson, "A Longitudinal Characterization of the Third-Party Authentication Landscape", *Proc. IFIP Networking*, Catania, Italy, June 2022.
